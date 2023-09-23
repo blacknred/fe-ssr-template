@@ -4,7 +4,7 @@
 
 ## Stack
 
-TS, NextJS, tailwind, react-hook-form, next-intl, next-seo, next-pwa
+TS, NextJS, Seo, tailwind, react-hook-form, next-intl, next-pwa, next-auth
 
 ## Getting Started
 
