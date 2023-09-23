@@ -1,0 +1,8 @@
+{
+  "extends": "next/core-web-vitals",
+  "plugins": ["formatjs"],
+  "root": true,
+  "rules": {
+    "formatjs/enforce-default-message": ["error", "literal"]
+  }
+}
